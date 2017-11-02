@@ -1,1 +1,2 @@
-# This website is currently under construction. Please check back soon!
+# This website is currently under construction. 
+# Please check back soon!
