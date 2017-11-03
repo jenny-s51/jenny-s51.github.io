@@ -1,2 +1,3 @@
-# This website is currently under construction. 
+# This site is currently under construction. 
 # Please check back soon!
+#               -Jenny
